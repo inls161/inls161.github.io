@@ -3,7 +3,7 @@ layout: post
 title: "New Blog Entry: Git Basics"
 ---
 
-This is a blog entry that contains a resource for **INLS161
+This is a blog entry that contains a resource for **INLS161**
 
 This is a link:
 
