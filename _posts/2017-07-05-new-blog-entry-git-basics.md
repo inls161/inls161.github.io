@@ -7,7 +7,7 @@ This is a blog entry that contains a resource for **INLS161**
 
 This is a link:
 
-(https://git-scm.com/book/id/v2/Getting-Started-Git-Basics)
+[Git Basics](https://git-scm.com/book/id/v2/Getting-Started-Git-Basics)
 
 ## Summary of the link:
 
